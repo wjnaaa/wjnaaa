@@ -3,11 +3,11 @@
 
 - 📄 Know about my experiences **https://www.canva.com/design/DAGSVgGuGJ8/dW-5KaH07cHiDDjatRzfoQ/edit?utm_content=DAGSVgGuGJ8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton**
 
-- ⚡ Fun fact **I think I'm a friendly but highly introverted person.**
+- ⚡ Fun fact : **I think I'm a friendly but highly introverted person.**
 
-- 💬 About me **I have good learningteamwork and an enthusiastic person.**
+- 💬 About me : **I have good learningteamwork and an enthusiastic person.**
 
-- 📝 About language **I’m learning Chinese and Japanese at a basic level**
+- 📝 About language : **I’m learning Chinese and Japanese at a basic level**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
