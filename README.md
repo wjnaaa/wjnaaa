@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm なま ( Nama )</h1>
 <h3 align="center">I'm a third-year AI Engeneering & Data Science Student. ⋆𐙚₊˚⊹♡</h3>
 
-- 📄 Know about my experiences **https://www.canva.com/design/DAGSVgGuGJ8/dW-5KaH07cHiDDjatRzfoQ/edit?utm_content=DAGSVgGuGJ8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton**
+- 📄 Know about wrwr **https://www.canva.com/design/DAGSVgGuGJ8/dW-5KaH07cHiDDjatRzfoQ/edit?utm_content=DAGSVgGuGJ8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton**
 
 - ⚡ Fun fact : **I think I'm a friendly but highly introverted person.**
 
