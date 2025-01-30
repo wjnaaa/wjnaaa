@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/worrawarun-jaresittikunchai-52aa23348/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="worraawrun jaresitthikunchai" height="30" width="40" /></a>
-<a href="https://fb.com/worrawarun jare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="worrawarun jare" height="30" width="40" /></a>
+<a href="https://www.facebook.com/worrawarun.jare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="worrawarun jare" height="30" width="40" /></a>
 <a href="https://instagram.com/mxuvxisnx_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mxuvxisnx_" height="30" width="40" /></a>
 </p>
 
